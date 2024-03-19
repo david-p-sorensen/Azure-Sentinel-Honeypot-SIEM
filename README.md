@@ -1,7 +1,7 @@
 # Azure-Sentinel-Honeypot-SIEM
 
 ## Summary
-In this project, I set up a virtual machine on Azure with a pubblically routable IP address and configure the firewalls to allow hackers from anywhere to attempt to log in. Then, I use a Geolocation.io API Key with a powershell script to extract the IP addresses of hackers and display them on a Sentiel world map.
+In this project, I set up a virtual machine on Azure with a publically routable IP address and configure the firewalls to allow hackers from anywhere to attempt to log in. Then, I use a Geolocation.io API Key with a powershell script to extract the IP addresses of hackers and display them on a Sentiel world map.
 
 ## Technologies Used
 
