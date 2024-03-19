@@ -18,19 +18,19 @@ In this project, I set up a virtual machine on Azure with a publically routable 
 ## Project Walk-through
  1. Create Azure Subscription
  2. Create Virtual Machine
- 3. Firewall turn off / allow all in firewall
+ 3. Publicly route VM IP address
  4. Create Log Analytics Workspace
- 5. Enable gathering VM logs in Security Center
+ 5. Enable gathering of VM logs in Security Center
  6. Connect Log Analytics to VM
  7. Setup Azure Sentinel
  8. Log into VM with Remote Desktop
  9. Observe Event viewer Logs in VM
- 10. Turn off Windows Firewall on VM
- 11. Running a powershell script
- 12. Get Geolocation.io API Key 13 Run Script To get Geo Data from attackers
- 13. Create custom log in LAW to bring in our custom log
- 14. Create custom fields/extract fields from raw custom log data
- 15. Testing Extracts
- 16. Setup map in sentinel with Latitude and Longitude (or country)
- 17. Fixing Map plot sizes
- 18. Final check on map
+ 10. Disable firewall on VM
+ 11. Run powershell script
+ 12. Get Geolocation.io API Key to convert hacker IP addresses int Geo data with script
+ 13. Create custom log in Log Analytics Workspace to manage Geo data
+ 14. Extract fields from raw custom log data
+ 15. Setup map in Sentinel with Latitude and Longitude
+ 16. Display data on map
+
+## The Result
