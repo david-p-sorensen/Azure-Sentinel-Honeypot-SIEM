@@ -34,4 +34,4 @@ In this project, I set up a virtual machine on Azure with a publically routable 
  16. Display data on map
 
 ## The Result
-![alt text](
+![alt text](https://github.com/david-p-sorensen/Azure-Sentinel-Honeypot-SIEM/blob/main/SIEM.jpeg?raw=true)
