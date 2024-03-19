@@ -25,7 +25,7 @@ In this project, I set up a virtual machine on Azure with a pubblically routable
  7. Setup Azure Sentinel
  8. Log into VM with Remote Desktop
  9. Observe Event viewer Logs in VM
- 10. Turn of Windows Firewall on VM
+ 10. Turn off Windows Firewall on VM
  11. Running a powershell script
  12. Get Geolocation.io API Key 13 Run Script To get Geo Data from attackers
  13. Create custom log in LAW to bring in our custom log
